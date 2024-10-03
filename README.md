@@ -9,4 +9,4 @@ Del primer paquete he utilizado un prefab de un personaje que se mueve por el es
 
 ## GIF de la animación
 
-<video src="./P1_II.mp4" autoplay loop muted></video>
+![Animacion](./Grabacion_II.gif)
